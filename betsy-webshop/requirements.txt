@@ -1,5 +1,4 @@
 peewee==3.14.8
 pysqlite3==0.4.6
 pytest==6.2.5
-python-Levenshtein==0.12.2
-thefuzz==0.19.0
+git+ssh://git@github.com/seatgeek/thefuzz.git@0.19.0#egg=thefuzz
